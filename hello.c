@@ -3,5 +3,5 @@
 
 void main()
 {
-	printf("fuck you");
+	printf("hello patty ji");
 }
